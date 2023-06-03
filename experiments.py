@@ -73,4 +73,7 @@ def free_fall_f1(input_data, length, e):
         row['dev_invariant'] = f.calculate_deviation_from_derivatives(deviations, derivatives)
 
     return data
+
+def spring_mass_exp1():
+    return
         
